@@ -1,0 +1,40 @@
+#tag MultiImage
+Image ocean
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFoAAAAAAFoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADUUR0FSCsAAAALXn8Jb2NlYW4ucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEyPhtRnszEAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB0Rlc2t0b3AAABAACAAA1FGNhQAAABEACAAA1GgjsQAAAAEADAALXn8ABqzFAAZMngACADBNYWNpbnRvc2ggSEQ6VXNlcnM6AHNqY2FybmFtOgBEZXNrdG9wOgBvY2Vhbi5wbmcADgAUAAkAbwBjAGUAYQBuAC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAgVXNlcnMvc2pjYXJuYW0vRGVza3RvcC9vY2Vhbi5wbmcAEwABLwAAFQACAA///wAAAAAAAAAA
+		FullPath = /Users/sjcarnam/Desktop/ocean.png
+		PartialPath = ..\ocean.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
