@@ -116,7 +116,7 @@ End
 #tag Events PushButton1
 	#tag Event
 		Sub Action()
-		  ImageWell1.Image = App.ControlSnapShot(Canvas1)
+		  ImageWell1.Image = ControlSnapshot.ControlSnapShot(Canvas1)
 		  
 		  
 		End Sub
