@@ -61,7 +61,7 @@ Begin Window Window1
       AcceptFocus     =   False
       AcceptTabs      =   False
       AutoDeactivate  =   True
-      Backdrop        =   2098667519
+      Backdrop        =   560541695
       DoubleBuffer    =   False
       Enabled         =   True
       EraseBackground =   True

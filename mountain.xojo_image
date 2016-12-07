@@ -1,0 +1,40 @@
+#tag MultiImage
+Image mountain
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAG0AAAAAAG0AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADUUR0FSCsAAABOAxUMbW91bnRhaW4ucG5nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFFAJ9RswpsAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAD0NvbnRyb2xTbmFwc2hvdAAAEAAIAADUUY2FAAAAEQAIAADUbTMbAAAAAQAUAE4DFQAVURAAC157AAasxQAGTJ4AAgBLTWFjaW50b3NoIEhEOlVzZXJzOgBzamNhcm5hbToARG9jdW1lbnRzOgBHaXQ6AENvbnRyb2xTbmFwc2hvdDoAbW91bnRhaW4ucG5nAAAOABoADABtAG8AdQBuAHQAYQBpAG4ALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADlVc2Vycy9zamNhcm5hbS9Eb2N1bWVudHMvR2l0L0NvbnRyb2xTbmFwc2hvdC9tb3VudGFpbi5wbmcAABMAAS8AABUAAgAP//8AAAAAAAAAAA==
+		FullPath = /Users/sjcarnam/Documents/Git/ControlSnapshot/mountain.png
+		PartialPath = mountain.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
